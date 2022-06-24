@@ -19,5 +19,7 @@ EXAMPLE 2:
 
 <img src="https://user-images.githubusercontent.com/76218483/175559794-14c7bdd3-28c5-4173-bf09-8109c915283e.PNG" width="500">
 
+<br/>
+<br/>
 
 This project was inspired from http://richzhang.github.io/colorization/
