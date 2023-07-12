@@ -1,8 +1,8 @@
 # Image-Colorizer
 
-This is an Deep Learning-based project which attempts to colorize black-and-white images.
+This is a Deep Learning-based project which attempts to colorize black-and-white images.
 
-The system has been considered as a classification problem, and implemented using a CNN(Convolutional Neural Network), and results have been obtained by using 2 different models, both of which have proven to be quite accurate.
+The system has been considered as a classification problem, and implemented using a CNN(Convolutional Neural Network), and results have been obtained by using 2 somewhat different models, both of which have proven to be quite accurate.
 
 2 examples are given as follows:
 
